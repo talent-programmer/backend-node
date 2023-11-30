@@ -28,8 +28,6 @@ Read in a different language: [![CN](./assets/flags/CN.png)**CN**](./README.chin
 
 - **✨ Easily focus on new content**: Already visited before? Search for `#new` or `#updated` tags for new content only
 
-- **🔖 Curious to see examples? We have a starter**: Visit [Practica.js](https://github.com/practicajs/practica), our application example and boilerplate (beta) to see some practices in action
-
 <br/><br/>
 
 # Welcome! 3 Things You Ought To Know First
